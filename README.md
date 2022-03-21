@@ -24,4 +24,6 @@ https://github.com/saurabhyadav01
 
 ## Tech Stack
 Html,Css,JavaScript,Dom,Api
-
+#screeenshots
+![Screenshot (76)](https://user-images.githubusercontent.com/72351102/159328480-e0e1ffe7-31ed-4264-9513-7d474328d6eb.png)
+![Screenshot (75)](https://user-images.githubusercontent.com/72351102/159328495-d9418651-370b-4921-967b-84bf1b7bdb61.png)
