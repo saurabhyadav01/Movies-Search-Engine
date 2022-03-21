@@ -1,5 +1,5 @@
 
-#### Purplle.com_web_clone
+#### movies Search Engine
 
 Movies Search Engine with some basic finctionalities,where user can search our fevorite movies
 
