@@ -4,12 +4,6 @@
 Movies Search Engine with some basic finctionalities
 
 
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
 
 ## Demo
 
@@ -25,10 +19,7 @@ https://github.com/saurabhyadav01/Movies-Search-Engine
 I'm a full stack web  developer...
 
 https://github.com/saurabhyadav01
-# Bewakoof Clone
 
-Bewakoof is an online shopping website for men and women
-clothing.
 
 
 ## Tech Stack
