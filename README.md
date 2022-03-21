@@ -7,7 +7,7 @@ Movies Search Engine with some basic finctionalities,where user can search our f
 
 ## Demo
 
-Insert gif or link to demo
+
 
 https://saurabhyadav01.github.io/Movies-Search-Engine/
 ## 🔗 Links
