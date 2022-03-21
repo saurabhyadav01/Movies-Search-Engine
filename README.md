@@ -1,5 +1,5 @@
 
-# Bewakoof Clone
+#### Purplle.com_web_clone
 
 Movies Search Engine with some basic finctionalities,where user can search our fevorite movies
 
