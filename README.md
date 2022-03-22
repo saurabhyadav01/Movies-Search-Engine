@@ -3,9 +3,7 @@
 
 Movies Search Engine with some basic finctionalities,where user can search our fevorite movies
 
-#Youtube api source
 
-https://developers.google.com/youtube/v3/
 
 ## Demo
 
