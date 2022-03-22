@@ -27,8 +27,7 @@ Html,Css,JavaScript,Dom,Api
 
 
 #screeenshots
-![Screenshot (76)](https://user-images.githubusercontent.com/72351102/159328480-e0e1ffe7-31ed-4264-9513-7d474328d6eb.png)
-![Screenshot (75)](https://user-images.githubusercontent.com/72351102/159328495-d9418651-370b-4921-967b-84bf1b7bdb61.png)
+
 
 #screenshot![Screenshot (72)](https://user-images.githubusercontent.com/72351102/159330202-a2c170be-607b-4bac-b45e-05b86d85f43f.png)![Screenshot (73)](https://user-images.githubusercontent.com/72351102/159330228-887de6d4-bd7a-41ce-ac06-77d2a905f766.png)
 
